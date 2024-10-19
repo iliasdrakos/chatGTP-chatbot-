@@ -1,12 +1,3 @@
-/*
-    HLIAS DRAKOS
-    AM:2022202200042
-    dit22042@go.uop.gr
-
-    ATHANASIOS DOUROS
-    AM:2022202200236
-    dit22236@go.uop.gr
-*/
 #include "ChatGTP.h"
 
 int main(void){
